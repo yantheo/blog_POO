@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c163737-5c9d-4bcf-90d2-92e2e0de6446" name="Default Changelist" comment="" />
+    <list default="true" id="1c163737-5c9d-4bcf-90d2-92e2e0de6446" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Controller/Admin/AppController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Controller/Admin/CategoriesController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Controller/Admin/PostsController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Controller/AppController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Controller/PostsController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Controller/UsersController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Views/posts/category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Views/posts/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Views/posts/show.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Views/templates/default.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Views/users/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/Controller/Controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/App.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/App.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/admin/categories/add.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/admin/categories/delete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/admin/categories/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Views/admin/categories/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/admin/categories/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Views/admin/categories/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/admin/posts/add.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/admin/posts/delete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/admin/posts/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Views/admin/posts/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/admin/posts/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Views/admin/posts/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/posts/category.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/posts/home.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/posts/show.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/templates/default.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/users/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,28 +58,35 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1i0W99dDWv8NStKfq8xy6ktiigM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/core/Table" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\php\POO_GRAFIKART\Blog\core\Table" />
+      <recent name="C:\xampp\htdocs\php\POO_GRAFIKART\Blog\core" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\php\POO_GRAFIKART\Blog\app\Controller" />
       <recent name="C:\xampp\htdocs\php\POO_GRAFIKART\Blog\core\HTML" />
       <recent name="C:\xampp\htdocs\php\POO_GRAFIKART\Blog\pages\users" />
       <recent name="C:\xampp\htdocs\php\POO_GRAFIKART\Blog\pages\articles" />
-      <recent name="C:\xampp\htdocs\php\POO_GRAFIKART\Blog\core" />
-      <recent name="C:\xampp\htdocs\php\POO_GRAFIKART\Blog\app\Database" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\php\POO_GRAFIKART\Blog\core\Table" />
       <recent name="C:\xampp\htdocs\php\POO_GRAFIKART\Blog\core" />
     </key>
   </component>
@@ -46,20 +101,36 @@
       <workItem from="1601044837545" duration="84878000" />
       <workItem from="1601891671116" duration="597000" />
       <workItem from="1602062799578" duration="31491000" />
+      <workItem from="1602491573592" duration="35466000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="390" y="7" key="#PHP" timestamp="1601045632036">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="390" y="7" key="#PHP/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1601045632036" />
-    <state x="450" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601385564268">
+    <state x="450" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602499267572">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="450" y="166" key="#com.intellij.fileTypes.FileTypeChooser/-1360.0.1360.728/1366.0.1440.860/0.0.1366.728@0.0.1366.728" timestamp="1602499267572" />
     <state x="450" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1601385564268" />
     <state x="153" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601810063041">
       <screen x="0" y="0" width="1366" height="728" />
@@ -74,17 +145,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1601045610371" />
-    <state x="468" y="87" key="NewPhpClassDialog" timestamp="1601803738265">
+    <state x="468" y="87" key="NewPhpClassDialog" timestamp="1602516233175">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="468" y="87" key="NewPhpClassDialog/-1360.0.1360.728/1366.0.1440.860/0.0.1366.728@0.0.1366.728" timestamp="1602516233175" />
     <state x="468" y="87" key="NewPhpClassDialog/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1601140327133" />
     <state x="468" y="87" key="NewPhpClassDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1601103908282" />
     <state x="468" y="87" key="NewPhpClassDialog/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1601471025269" />
     <state x="468" y="87" key="NewPhpClassDialog/1366.0.1440.860/0.0.1366.728@0.0.1366.728" timestamp="1601803738265" />
-    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1602160683241">
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1602499276111">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="517" y="287" key="NewPhpFileDialog/-1360.0.1360.728/1366.0.1440.860/0.0.1366.728@0.0.1366.728" timestamp="1602160683241" />
+    <state x="517" y="287" key="NewPhpFileDialog/-1360.0.1360.728/1366.0.1440.860/0.0.1366.728@0.0.1366.728" timestamp="1602499276111" />
     <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1601109479619" />
     <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1601458649845" />
     <state x="517" y="287" key="NewPhpFileDialog/1366.0.1440.860/0.0.1366.728@0.0.1366.728" timestamp="1601819584627" />
@@ -96,6 +168,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="324" y="90" width="700" height="530" key="recent.locations.popup/-1360.0.1360.728/1366.0.1440.860/0.0.1366.728@0.0.1366.728" timestamp="1602086035103" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1602536486840">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/-1360.0.1360.728/1366.0.1440.860/0.0.1366.728@0.0.1366.728" timestamp="1602536486840" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1602160882847">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
